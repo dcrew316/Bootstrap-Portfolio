@@ -1,0 +1,203 @@
+#head {
+text-align: center;
+background-color: #4aaaa5;
+top: -5px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: white;
+width: 30%;
+position: absolute;
+left: 100px;
+border-style: inset;
+height: 62px;
+}
+
+.AboutMe {
+color: #777777;
+padding: 20px;
+font-family: Arial, Helvetica, sans-serif;
+margin: 100px;
+border-style: inset;
+border-color: #dddddd;
+height: 400px;
+width: 960px;
+background-color: #ffffff;
+
+}
+#Links {
+text-align: right;
+font-family: Arial, Helvetica, sans-serif;
+border-bottom-style: solid;
+border-color: #cccccc;
+position: relative;
+background-color: #ffffff;
+padding: 20px;
+border-bottom-width: 5px;
+}
+
+.container {
+border-bottom-style: solid;
+border-bottom-color: #4aaaa5;
+border-bottom-width: 5px;
+background-color: white;
+width: 1200px;
+}
+
+body {
+    background-image: url(images/dark-honeycomb.png);
+}
+
+a {
+color: #777777;
+text-decoration: none;
+}
+
+a:hover {
+color: #4aaaa5;
+}
+
+h2 {
+color: #4aaaa5;
+font-family: Georgia, 'Times New Roman', Times, serif;
+border-bottom-style: solid;
+border-bottom-color: #ffffff;
+padding: 0px;
+}
+
+img {
+float:left;
+width: 200px;
+margin-right: 20px;
+}
+
+#contact {
+color: #777777;
+padding: 20px;
+font-family: Arial, Helvetica, sans-serif;
+margin: 100px;
+border-style: inset;
+border-color: #dddddd;
+height: 400px;
+width: 960px;
+background-color: #ffffff;
+}
+
+button {
+background-color: #4aaaa5;
+color: #ffffff;
+margin-top: 20px;
+font-size: 14px;
+padding: 5px;
+width: 80px;
+}
+
+.portfolio {
+color: #777777;
+padding: 20px;
+font-family: Arial, Helvetica, sans-serif;
+margin: 100px;
+border-style: inset;
+border-color: #dddddd;
+height: 900px;
+width: 960px;
+background-color: #ffffff;
+position: relative;
+}
+
+#footer {
+background-color: #666666;
+height: 65px;
+color: #cccccc;
+text-align: center;
+}
+
+#box1title {
+position: relative;
+width: 200px;
+height: 35px;
+margin-top: auto;
+margin-top: 238px;
+background:  #4aaaa5;
+text-align: center;
+color: white;
+bottom: 130px;
+font-size: 20px;
+}
+
+#box2title {
+position: relative;
+width: 200px;
+height: 35px;
+margin-top: auto;
+margin-top: 238px;
+background:  #4aaaa5;
+text-align: center;
+color: white;
+bottom: 130px;
+font-size: 20px;
+}
+
+#box3title {
+position: relative;
+width: 200px;
+height: 35px;
+margin-top: auto;
+margin-top: 238px;
+background:  #4aaaa5;
+text-align: center;
+color: white;
+bottom: 130px;
+font-size: 20px;
+}
+
+#box4title {
+position: relative;
+width: 200px;
+height: 35px;
+margin-auto: auto;
+margin-top: 238px;
+background:  #4aaaa5;
+text-align: center;
+color: white;
+bottom: 130px;
+font-size: 20px;
+}
+
+#box5title {
+position: relative;
+width: 200px;
+height: 35px;
+margin-auto: auto;
+margin-top: 238px;
+background:  #4aaaa5;
+text-align: center;
+color: white;
+bottom: 130px;
+font-size: 20px;
+}
+
+.box1 {
+position: absolute;
+top: 100px;
+}
+
+.box2 {
+position: absolute;
+top: 100px;
+left: 250px;
+}
+
+.box3 {
+position: absolute;
+top: 280px;
+}
+
+.box4 {
+position: absolute;
+top: 280px;
+left: 250px
+}
+
+.box5 {
+position: absolute;
+top: 460px;
+}
